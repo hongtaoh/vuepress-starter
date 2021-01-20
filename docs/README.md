@@ -1,4 +1,6 @@
-# Visualize 120 Years of Summer Olympics
+# Olymvis
+
+## Visualize 120 Years of Summer Olympics
 
 This data visualization project was completed by Zihui (Chris) Fang and Hongtao Hao, with Equal Contribution, as the term paper for Professor Yong-Yeol Ahn's Data Visualization course in 2019 Fall.
 
