@@ -1,0 +1,21 @@
+{
+  "name": "vuevue",
+  "version": "1.0.0",
+  "description": "tryig vuepress",
+  "main": "index.js",
+  "scripts": {
+    "test": "server -D",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "Hongtao Hao",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.0",
+    "vuepress-plugin-sidebar": "^0.2.1"
+  },
+  "dependencies": {
+    "vuepress-auto-sidebar": "^1.1.1",
+    "vuepress-bar": "^0.3.2"
+  }
+}
