@@ -19,7 +19,7 @@ module.exports = {
       { text: 'Literature', link: '/03-lit/' },
       { text: 'Vis Plans', link: '/04-plans/' },
       { text: 'Plots', link: '/05-plots/' },
-      { text: 'GitHub Repo', link: '/04-plans/' },
+      { text: 'GitHub Repo', link: 'https://github.com/hongtaoh/vuepress-starter' },
     ],
     },
     plugins: [
