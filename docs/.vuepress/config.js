@@ -13,7 +13,8 @@ module.exports = {
     serviceWorker: true,
     themeConfig: {
       logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Olympics.svg/1200px-Olympics.svg.png',
-      lastUpdated:'lastUpdated',
+      lastUpdated:'Last Updated',
+      repo: 'hongtaoh/vuepress-starter'
       nav: [
       { text: 'Home', link: '/' },
       { text: 'Literature', link: '/03-lit/' },
