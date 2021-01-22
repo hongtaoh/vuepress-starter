@@ -32,7 +32,7 @@ To make comparisons clearer, we decided to use an area chart. We stacked each ar
 We then went back to the small multiple. Since we cared about the comparison between each continent, we decided to plot every continent and the global average in each of the six graphs. We highlighted only one continent in each graph, and set all other continents grey in the background. It worked much better than out earlier attempts, but one drawback is that it did not allow comparison with the global average. See Figure 28.
 
 <figure>
-  <img src="https://raw.githubusercontent.com/hongtaoh/olymvis/master/static/pics/g-2-5.png"></img>
+  <img src="https://raw.githubusercontent.com/hongtaoh/olymvis-data/master/output/vis/g-2-5.png"></img>
   <figcaption>
   	Figure 28: Line graph in small multiple for female participation by continent against all other groups
   </figcaption>
@@ -41,7 +41,7 @@ We then went back to the small multiple. Since we cared about the comparison bet
 Finally, we decided to highlight the global average with a black line. This time, comparisons both between continents and with the global average were clear. See Figure 29.
 
 <figure>
-  <img src="https://raw.githubusercontent.com/hongtaoh/olymvis/master/static/pics/g-2-6.png"></img>
+  <img src="https://raw.githubusercontent.com/hongtaoh/olymvis-data/master/output/vis/g-2-6.png"></img>
   <figcaption>
   	Figure 29: Line graph in small multiple for female participation by continent against global statistics
   </figcaption>
